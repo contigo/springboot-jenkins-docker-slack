@@ -24,6 +24,7 @@ repositories {
 task print() {
 	doLast{
 		println "github push complete"
+		println "this is a new Build 입니다"
 	}
 }
 
